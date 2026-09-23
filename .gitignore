@@ -1,0 +1,40 @@
+# Datasets and pretrained weights are supplied by the user, never committed.
+data/
+pretrained/
+datasets_raw/
+*.safetensors
+*.pth
+*.pt
+*.ckpt
+*.bin
+
+# Run outputs
+results/
+runs/
+outputs/
+logs/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+.pytest_cache/
+.mypy_cache/
+
+# Editors and OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Local scratch
+*.log
+*.bak
+*.pre_*
+*.orig
+*.rej
+_tune_*.py
