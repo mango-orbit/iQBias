@@ -1,4 +1,4 @@
-# PCQR — Prompt-Context-Coupled Query–Value Refinement
+# iQBias — Image-Conditioned Query Bias Tuning for Parameter-Efficient Deep Metric Learning
 
 Parameter-efficient adaptation of a frozen ViT for deep metric learning, where the
 only backbone parameters that may move are the **query and value bias slices** of
